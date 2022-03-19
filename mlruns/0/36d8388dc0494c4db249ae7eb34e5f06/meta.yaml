@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Joe%20Z/_code/health_ai_question_answer/mlruns/0/36d8388dc0494c4db249ae7eb34e5f06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 36d8388dc0494c4db249ae7eb34e5f06
+run_uuid: 36d8388dc0494c4db249ae7eb34e5f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647707990608
+status: 1
+tags: []
+user_id: Joe Z
