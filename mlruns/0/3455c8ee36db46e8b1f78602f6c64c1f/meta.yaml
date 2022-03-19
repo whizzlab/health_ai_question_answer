@@ -1,5 +1,5 @@
 artifact_uri: file:///C:/Users/Joe%20Z/_code/health_ai_question_answer/mlruns/0/3455c8ee36db46e8b1f78602f6c64c1f/artifacts
-end_time: null
+end_time: 1647723788469
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1647723622472
-status: 1
+status: 3
 tags: []
 user_id: Joe Z
