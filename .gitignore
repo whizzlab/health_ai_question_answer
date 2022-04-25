@@ -1,2 +1,6 @@
 /data/
 /pubmed_tuned/
+/pubmed_tuned_methods/
+/mlruns/
+/output/
+/model/
